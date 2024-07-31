@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 About me
-🎓 Hi, I’m @gkodrzycki, Computer Science Student at University of Wrocław and Python Developer at Xperi <br/>
+🎓 Hi, I’m @gkodrzycki, Computer Science Student at University of Wrocław <br/>
 🤖 I’m interested in Machine Learning and Backend Development <br/>
 🌱 I'm currently deepening my knowledge in Python and Databases
 
