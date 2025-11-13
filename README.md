@@ -1,3 +1,11 @@
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gkodrzycki.github.io/gkodrzycki/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://gkodrzycki.github.io/gkodrzycki/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://gkodrzycki.github.io/gkodrzycki/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @gkodrzycki, Computer Science Student at University of Wrocław  <br/>
 💼 **DevOps** at Xperi  <br/>
